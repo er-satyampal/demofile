@@ -7,3 +7,5 @@ $phone_no = $_GET['phone_no'];
 $school_name = $_GET['school_name'];
 $class = $_GET['class'];
 $addsubject = $_GET['addsubject'];
+ 
+?>
