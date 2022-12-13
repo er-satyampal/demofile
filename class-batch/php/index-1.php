@@ -9,3 +9,7 @@
 // $c =$a+$b;
 // EcHO"This is your Value ".("<br />").($c);
 ?> -->
+
+ <!-- php-string -->
+
+ 
